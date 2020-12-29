@@ -1,0 +1,11 @@
+{
+  "connection": {
+    "database": "kanon_gaming",
+    "username": "root",
+    "password": "huricane",
+    "host": "localhost",
+    "port": 3307,
+    "dialect": "mysql",
+    "logging": false
+  }
+}

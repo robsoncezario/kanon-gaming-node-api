@@ -1,0 +1,4 @@
+{
+  "allCountriesApi": "https://restcountries.eu/rest/v2/all",
+  "countryNameApi": "https://restcountries.eu/rest/v2/name/"
+}
