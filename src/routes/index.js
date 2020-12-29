@@ -7,6 +7,7 @@ const slotMachineController = require('../controllers/Slotmachine/controller');
 
 const routes = Router();
 
+routes.get('/country/findAll', countryController.findAll);
 routes.get('/country/find/:countryName', countryController.findCountry);
 routes.post('/country/findMany', countryController.findMany);
 routes.post('/auth/register', userController.register);
